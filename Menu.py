@@ -1,4 +1,4 @@
-from DSALS1_SetOperations import Set
+from SetOperations import Set
 
 def create():
     n = int(input("\nEnter the number of elements : "))
